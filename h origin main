@@ -1,0 +1,65 @@
+[33mcommit 64fb4eba3083ac757ecc750bb2bf9ea8f6ab1786[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: M M <milkego.867@gmail.com>
+Date:   Tue Dec 16 18:04:38 2025 +0300
+
+    Add Gradle wrapper and fix .gitignore
+
+[33mcommit 878cd1c3cc22a548a71c06c50f3ebb3758c19d78[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Roman Frołow <rofrol@gmail.com>
+Date:   Mon Mar 9 14:16:56 2015 +0100
+
+    InputMap and ActionMap
+
+[33mcommit aaf08f9fec4188ffad68ec7486df740be96da0d1[m
+Author: Roman Frołow <rofrol@gmail.com>
+Date:   Fri Mar 6 09:36:07 2015 +0100
+
+    AbstractAction instead of ActionListener
+
+[33mcommit e0edc5067bd24deec729df49be21ac470f4b4bef[m
+Author: Roman Frołow <rofrol@gmail.com>
+Date:   Thu Mar 5 15:44:35 2015 +0100
+
+    windowClosing
+
+[33mcommit 88f0089e83d0833cb72b9592770ac27c0973d28d[m
+Author: Roman Frołow <rofrol@gmail.com>
+Date:   Tue Feb 24 15:31:53 2015 +0100
+
+    themeButton
+
+[33mcommit f623512a164555a99ce020903676aa6344ede24c[m
+Author: Roman Frołow <rofrol@gmail.com>
+Date:   Tue Feb 24 15:05:03 2015 +0100
+
+    uncomment pack()
+
+[33mcommit beeeb85cacdb15f77d4559d4140a310d5ee2bc86[m
+Author: Roman Frołow <rofrol@gmail.com>
+Date:   Tue Feb 24 15:04:00 2015 +0100
+
+    clean-up
+
+[33mcommit d9d8effff53f816463316a78f4bb66d0af37b0a4[m
+Author: Roman Frołow <rofrol@gmail.com>
+Date:   Tue Feb 24 15:00:21 2015 +0100
+
+    button method
+
+[33mcommit 37fd2631e9217a9dd1c71886a0e574c1144bdb97[m
+Author: Roman Frołow <rofrol@gmail.com>
+Date:   Tue Feb 24 14:04:02 2015 +0100
+
+    buttons and events
+
+[33mcommit 51cc9abcddd4b0f67bebee245bb8f28b269d43bb[m
+Author: Roman Frołow <rofrol@gmail.com>
+Date:   Mon Feb 23 16:44:24 2015 +0100
+
+    string centered
+
+[33mcommit 69d6f2a1166e455d795561574d8d773630799570[m
+Author: Roman Frołow <rofrol@gmail.com>
+Date:   Thu Feb 19 15:28:16 2015 +0100
+
+    first commit
