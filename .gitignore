@@ -1,9 +1,15 @@
-*.class
+# Временные файлы
+*~
+
+# Gradle
+.gradle/
 build/
-gradle/
-gradlew
-gradlew.bat
-*.iml
-settings.gradle
-.gradle
-.idea
+out/
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+
+# IDE files
+.idea/
